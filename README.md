@@ -1,6 +1,7 @@
 # LIKELION PBL 9 - Relationship & Transaction
 
 Spring Boot 3.x, Spring Data JPA, MySQL 기반으로 `Member`와 `Assignment`의 1:N 양방향 관계를 구현한 과제입니다.
+작성자 : 김민수
 
 ## Requirements
 
